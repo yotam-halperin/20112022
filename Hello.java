@@ -3,7 +3,7 @@ public class Hello {
         System.out.println("Hello, World!!!");
         System.out.println("Yotam Halperin, is a king");
         System.out.println("Yotam Ben Zvi,");
-        System.out.println("Yotam Other.");
+        System.out.println("Yuval Klechy.");
     
     }
 }
